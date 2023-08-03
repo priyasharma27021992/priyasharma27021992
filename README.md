@@ -1,5 +1,16 @@
 ### Hi there 👋
-I am a web developer and have an experience of almost 6 years on Frontend tech stack which includes HTML, CSS, jquery, React, Redux, NextJs, TypeScript, Styling frameworks etc. 
+I am a web developer and have a total experience of 9 years and relevant experience of around 7 years in Frontend/Web Technologies.
+Tech Stack
+ - Javascript
+ - Reactjs
+ - Redux
+ - NextJs
+ - TypeScript
+ - HTML
+ - CSS
+ - jquery
+ - styling libraries: material-ui, styled-components, ant-design, tailwind etc.
+ - 
 I have recently started contributing to GitHub and I am ready for collaborations too.
 - 🔭 I’m currently working on multiple projects which include the below:
    1. Word Document Receipt generation

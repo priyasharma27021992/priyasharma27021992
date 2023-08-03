@@ -10,7 +10,9 @@ Tech Stack
  - CSS
  - jquery
  - styling libraries: material-ui, styled-components, ant-design, tailwind etc.
- - 
+
+I run an NGO (which has 2 support schools) for the underprivileged. I created my own website for it too https://nanhekhwab.in/ and it is hoisted on AWS.
+
 I have recently started contributing to GitHub and I am ready for collaborations too.
 - 🔭 I’m currently working on multiple projects which include the below:
    1. Word Document Receipt generation

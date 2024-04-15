@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a web developer and have a total experience of 9 years and relevant experience of around 7 years in Frontend/Web Technologies.
+I am a web developer and have a total experience of 10 years and relevant experience of around 7 years in Frontend/Web Technologies.
 Tech Stack
  - Javascript
  - Reactjs

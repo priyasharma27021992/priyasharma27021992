@@ -11,7 +11,10 @@ Tech Stack
  - jquery
  - styling libraries: material-ui, styled-components, ant-design, tailwind etc.
 
-I run an NGO (which has 2 support schools) for the underprivileged. I created my own website for it too https://nanhekhwab.in/ and it is hoisted on AWS.
+I run an NGO (which has 2 support schools) for the underprivileged. My projects:
+1. Nanhe Khwab site hoisted on aws
+2. Portfolio hosted on github
+3. Short Url hosted on vercel
 
 I have recently started contributing to GitHub and I am ready for collaborations too.
 - 🔭 I’m currently working on multiple projects which include the below:

@@ -18,9 +18,9 @@ I run an NGO (which has 2 support schools) for the underprivileged. My projects:
 
 I have recently started contributing to GitHub and I am ready for collaborations too.
 - 🔭 I’m currently working on multiple projects which include the below:
-   1. Word Document Receipt generation
-   2. NextJs Authentication 
-- 🌱 I’m currently learning Web3
+   1. Word Document Receipt generation: Done
+   2. NextJs Authentication : In Progress
+- 🌱 I’m currently learning testing and python
 - 🤝 I’m looking to collaborate for any js framework project.
 
 <!--

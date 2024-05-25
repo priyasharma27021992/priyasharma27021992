@@ -10,6 +10,7 @@ Tech Stack
  - CSS
  - jquery
  - styling libraries: material-ui, styled-components, ant-design, tailwind etc.
+ - testing FW: jest, test-library
 
 I run an NGO (which has 2 support schools) for the underprivileged. My projects:
 1. Nanhe Khwab site hoisted on aws

@@ -14,7 +14,7 @@ Tech Stack
 
 I run an NGO (which has 2 support schools) for the underprivileged. My projects:
 1. Nanhe Khwab site hoisted on aws
-2. Portfolio hosted on github
+2. Portfolio hosted on github: https://priyasharma27021992.github.io/miss-techie/
 3. Short Url hosted on vercel
 
 I have recently started contributing to GitHub and I am ready for collaborations too.

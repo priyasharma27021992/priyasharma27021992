@@ -15,26 +15,10 @@ Tech Stack
 I run an NGO (which has 2 support schools) for the underprivileged. My projects:
 1. Nanhe Khwab site hoisted on aws
 2. Portfolio hosted on github: https://priyasharma27021992.github.io/miss-techie/
-3. Short Url hosted on vercel
+Many more in progress
 
-I have recently started contributing to GitHub and I am ready for collaborations too.
 - 🔭 I’m currently working on multiple projects which include the below:
-   1. Word Document Receipt generation: Done
-   2. NextJs Authentication : In Progress
-- 🌱 I’m currently learning testing and python
-- 🤝 I’m looking to collaborate for any js framework project.
-
-<!--
-**priyasharma27021992/priyasharma27021992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 1. Creating Nanhe Khwab site on html + tailwind + js, using vite and will just deploy the build files with assets
+ 2. Will do the same Nanhe Khwab site on react to see the difference in performance if any
+ 3. Next is a restaurant app I want to work up
+ 4. Reading about open source contributions

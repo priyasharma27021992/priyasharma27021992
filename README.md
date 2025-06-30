@@ -17,7 +17,7 @@ I run an NGO (which has 2 support schools) for the underprivileged. My projects:
 2. Portfolio hosted on github: https://priyasharma27021992.github.io/miss-techie/
 Many more in progress
 
-- 🔭 I’m currently working on multiple projects which include the below:
+- 🔭 I’m currently working on multiple projects as mentioned.
  1. Creating Nanhe Khwab site on html + tailwind + js, using vite and will just deploy the build files with assets
  2. Will do the same Nanhe Khwab site on react to see the difference in performance if any
  3. Next is a restaurant app I want to work up

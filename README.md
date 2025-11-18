@@ -15,7 +15,7 @@
 # Deployed rojects:
 1. Nanhe Khwab NGO website hoisted on aws ec2 instance
 2. Portfolio hosted on github: https://priyasharma27021992.github.io/miss-techie/
-3. Helped build https://lemonpeel.in/
+3. Helped build https://lemonpeel.ai/
    
 # Some more in progress
  1. Creating Nanhe Khwab site on next.js, just to practice and see options earlier one was using jquery and html css.

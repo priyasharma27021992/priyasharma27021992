@@ -1,4 +1,4 @@
-### Frontend developer | Total Experience: 11 years | Frontend Experience: ~7 years
+### Frontend developer | Learning...
 
 # Tech Stack
  - javascript

@@ -12,8 +12,8 @@
  - Styling libraries: material-ui, styled-components, ant-design, tailwind mainly
  - Testing FW/Libraries: jest, react-test-library, playwright
 
-# Deployed rojects:
-1. Nanhe Khwab NGO website hoisted on aws ec2 instance
+# Deployed projects:
+1. Nanhe Khwab NGO website hoisted on aws ec2 instance(https://nanhekhwab.in/)
 2. Portfolio hosted on github: https://priyasharma27021992.github.io/miss-techie/
 3. Helped build https://lemonpeel.ai/
    

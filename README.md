@@ -1,16 +1,16 @@
 ### Frontend developer | Learning...
 
 # Tech Stack
- - javascript
- - react.js
- - redux
- - next.js
+ - JavaScript
+ - React.js
+ - Redux
+ - Next.js
  - TypeScript
  - HTML5
- - CSS
+ - CSS3
  - jquery
- - Styling libraries: material-ui, styled-components, ant-design, tailwind mainly
- - Testing FW/Libraries: jest, react-test-library, playwright
+ - Styling libraries: styled-components, ant-design, tailwind, css in js
+ - Testing FW/Libraries: jest, react-test-library, cypress
 
 # Deployed projects:
 1. Nanhe Khwab NGO website hoisted on aws ec2 instance(https://nanhekhwab.in/)

@@ -3,8 +3,10 @@
 # Tech Stack
  - JavaScript
  - React.js
- - Redux
  - Next.js
+ - Vue.js
+ - Nuxt.js
+ - Redux
  - TypeScript
  - HTML5
  - CSS3

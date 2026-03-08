@@ -10,6 +10,7 @@
  - TypeScript
  - HTML5
  - CSS3
+ - SASS/SCSS
  - jquery
  - Styling libraries: styled-components, ant-design, tailwind, css in js
  - Testing FW/Libraries: jest, react-test-library, cypress
